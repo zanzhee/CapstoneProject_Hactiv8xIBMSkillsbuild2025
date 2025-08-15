@@ -5,8 +5,8 @@ Muhammad Fauzan Azhima
 ---
 
 ## 📝 Project overview  
-Proyek ini bertujuan menganalisis pola kejadian gangguan pada unit produksi udara (Air Production Unit/APU) kompresor kereta metro menggunakan dataset **MetroPT-3**.  
-Karena ukuran data yang besar dan keterbatasan perangkat, rekaman aslinya (1 Hz) dirata-ratakan menjadi interval 60 menit ⏱️ dan periode analisis dibatasi (contoh: 10 Februari – 20 Maret).  
+Proyek ini bertujuan menganalisis pola kejadian gangguan pada unit produksi udara (Air Production Unit/APU) kompresor kereta metro menggunakan dataset **MetroPT-3** agar bisa didapat saran atau rekomendasi strategis yang bisa dilakukan untuk mengatasi gangguan tersebut.  
+Karena ukuran asli dataset yang terlalu besar (dataset asli direkeam dengan frekuensi 1 Hz atau setiap detik dari bulan februari 2020 - agustus 2020) dan keterbatasan perangkat, rekaman aslinya dirata-ratakan menjadi interval 60 menit dan periode analisis dibatasi (contoh: 10 Februari – 20 Maret).  
 
 Setiap sampel per jam dilabeli menjadi salah satu kategori:  
 - ✅ **Normal**  
@@ -14,7 +14,7 @@ Setiap sampel per jam dilabeli menjadi salah satu kategori:
 - 🔴 **HighStress**  
 - 🟣 **AirLeak-HighStress**  
 
-Untuk efisiensi token dan memori model, pelabelan dilakukan dalam batch. Hasil pelabelan digabungkan, lalu **Python** menghitung tren jam & hari rawan 📈. Ringkasan tren tersebut dikirim ke **Granite 3.2 8B** (lokal via LM Studio) agar Granite dapat fokus memberikan rekomendasi strategis 💡 bagi perusahaan.  
+Untuk efisiensi token dan memori model, pelabelan dilakukan dalam batch. Hasil pelabelan digabungkan, lalu **Python** menghitung tren jam & hari rawan 📈. Ringkasan tren tersebut dikirim ke **Granite 3.2 8B** (lokal via LM Studio) agar Granite dapat fokus memberikan rekomendasi strategis  bagi perusahaan.  
 
 ---
 
