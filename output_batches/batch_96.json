@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2020-03-11 17:00:00",
+    "date": "2020-03-11",
+    "hour": 17,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All parameters within normal range"
+  },
+  {
+    "timestamp": "2020-03-11 18:00:00",
+    "date": "2020-03-11",
+    "hour": 18,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "COMP value slightly above normal (0.643 > 0.6)"
+  },
+  {
+    "timestamp": "2020-03-11 19:00:00",
+    "date": "2020-03-11",
+    "hour": 19,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.85,
+    "reason": "COMP value above normal (0.62), high H1 value (6.164) indicating stress"
+  },
+  {
+    "timestamp": "2020-03-11 22:00:00",
+    "date": "2020-03-11",
+    "hour": 22,
+    "label": "AirLeak",
+    "confidence": 0.9,
+    "reason": "COMP value above normal (0.447), slight DV_pressure drop (-0.0186)"
+  },
+  {
+    "timestamp": "2020-03-11 23:00:00",
+    "date": "2020-03-11",
+    "hour": 23,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.8,
+    "reason": "COMP value above normal (0.937), high H1 value (8.485) indicating stress"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-17 10:00:00",
+    "date": "2020-03-17",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-17 11:00:00",
+    "date": "2020-03-17",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-17 12:00:00",
+    "date": "2020-03-17",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-17 13:00:00",
+    "date": "2020-03-17",
+    "hour": 13,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Slight drop in COMP and DV_pressure readings may indicate a minor air leak."
+  },
+  {
+    "timestamp": "2020-03-17 14:00:00",
+    "date": "2020-03-17",
+    "hour": 14,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-17 15:00:00",
+    "date": "2020-03-17",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-17 16:00:00",
+    "date": "2020-03-17",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-17 17:00:00",
+    "date": "2020-03-17",
+    "hour": 17,
+    "label": "HighStress",
+    "confidence": 0.9,
+    "reason": "Elevated H1 and Motor_current readings suggest high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-03-17 18:00:00",
+    "date": "2020-03-17",
+    "hour": 18,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.75,
+    "reason": "Combined air leak indication (low COMP and DV_pressure) with high stress (elevated H1 and Motor_current)."
+  },
+  {
+    "timestamp": "2020-03-17 19:00:00",
+    "date": "2020-03-17",
+    "hour": 19,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Elevated H1 and Motor_current readings suggest high stress on the compressor."
+  }
+]

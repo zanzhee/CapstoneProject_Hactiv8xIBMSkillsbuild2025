@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-27 10:00:00",
+    "date": "2020-03-27",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 11:00:00",
+    "date": "2020-03-27",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 12:00:00",
+    "date": "2020-03-27",
+    "hour": 12,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Slightly elevated COMP value indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-03-27 13:00:00",
+    "date": "2020-03-27",
+    "hour": 13,
+    "label": "AirLeak",
+    "confidence": 0.89,
+    "reason": "Elevated COMP value and DV_pressure fluctuation suggest air leak."
+  },
+  {
+    "timestamp": "2020-03-27 14:00:00",
+    "date": "2020-03-27",
+    "hour": 14,
+    "label": "AirLeak",
+    "confidence": 0.86,
+    "reason": "COMP value and DV_pressure fluctuation suggest air leak."
+  },
+  {
+    "timestamp": "2020-03-27 15:00:00",
+    "date": "2020-03-27",
+    "hour": 15,
+    "label": "AirLeak",
+    "confidence": 0.87,
+    "reason": "COMP value and DV_pressure fluctuation suggest air leak."
+  },
+  {
+    "timestamp": "2020-03-27 16:00:00",
+    "date": "2020-03-27",
+    "hour": 16,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP value and DV_pressure fluctuation suggest air leak."
+  },
+  {
+    "timestamp": "2020-03-27 17:00:00",
+    "date": "2020-03-27",
+    "hour": 17,
+    "label": "AirLeak",
+    "confidence": 0.84,
+    "reason": "COMP value and DV_pressure fluctuation suggest air leak."
+  },
+  {
+    "timestamp": "2020-03-27 18:00:00",
+    "date": "2020-03-27",
+    "hour": 18,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.91,
+    "reason": "Elevated COMP and Motor_current values suggest high stress in addition to air leak."
+  },
+  {
+    "timestamp": "2020-03-27 19:00:00",
+    "date": "2020-03-27",
+    "hour": 19,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.92,
+    "reason": "Elevated COMP and Motor_current values suggest high stress in addition to air leak."
+  }
+]

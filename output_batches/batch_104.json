@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-14 22:00:00",
+    "date": "2020-03-14",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-14 23:00:00",
+    "date": "2020-03-14",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-15 00:00:00",
+    "date": "2020-03-15",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-15 01:00:00",
+    "date": "2020-03-15",
+    "hour": 1,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.85,
+    "reason": "COMP (compressor efficiency) is at 1.0 indicating a potential leak or malfunction, while H1 (compressor high-pressure) and DV_pressure are showing significant negative values suggesting high stress."
+  },
+  {
+    "timestamp": "2020-03-15 02:00:00",
+    "date": "2020-03-15",
+    "hour": 2,
+    "label": "AirLeak",
+    "confidence": 0.7,
+    "reason": "All sensor readings are NaN indicating a data transmission issue or compressor shutdown."
+  },
+  {
+    "timestamp": "2020-03-15 03:00:00",
+    "date": "2020-03-15",
+    "hour": 3,
+    "label": "AirLeak",
+    "confidence": 0.7,
+    "reason": "All sensor readings are NaN indicating a data transmission issue or compressor shutdown."
+  },
+  {
+    "timestamp": "2020-03-15 04:00:00",
+    "date": "2020-03-15",
+    "hour": 4,
+    "label": "AirLeak",
+    "confidence": 0.7,
+    "reason": "All sensor readings are NaN indicating a data transmission issue or compressor shutdown."
+  },
+  {
+    "timestamp": "2020-03-15 05:00:00",
+    "date": "2020-03-15",
+    "hour": 5,
+    "label": "AirLeak",
+    "confidence": 0.7,
+    "reason": "All sensor readings are NaN indicating a data transmission issue or compressor shutdown."
+  },
+  {
+    "timestamp": "2020-03-15 06:00:00",
+    "date": "2020-03-15",
+    "hour": 6,
+    "label": "AirLeak",
+    "confidence": 0.7,
+    "reason": "All sensor readings are NaN indicating a data transmission issue or compressor shutdown."
+  },
+  {
+    "timestamp": "2020-03-15 07:00:00",
+    "date": "2020-03-15",
+    "hour": 7,
+    "label": "AirLeak",
+    "confidence": 0.7,
+    "reason": "All sensor readings are NaN indicating a data transmission issue or compressor shutdown."
+  }
+]

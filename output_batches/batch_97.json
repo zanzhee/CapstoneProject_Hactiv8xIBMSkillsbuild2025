@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-12 00:00:00",
+    "date": "2020-03-12",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-12 01:00:00",
+    "date": "2020-03-12",
+    "hour": 1,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP (Compressor Output) is zero, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-12 02:00:00",
+    "date": "2020-03-12",
+    "hour": 2,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP (Compressor Output) is zero, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-12 03:00:00",
+    "date": "2020-03-12",
+    "hour": 3,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP (Compressor Output) is zero, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-12 04:00:00",
+    "date": "2020-03-12",
+    "hour": 4,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP (Compressor Output) is zero, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-12 05:00:00",
+    "date": "2020-03-12",
+    "hour": 5,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP (Compressor Output) is zero, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-12 06:00:00",
+    "date": "2020-03-12",
+    "hour": 6,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP (Compressor Output) is zero, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-12 07:00:00",
+    "date": "2020-03-12",
+    "hour": 7,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP (Compressor Output) is zero, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-12 08:00:00",
+    "date": "2020-03-12",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-12 09:00:00",
+    "date": "2020-03-12",
+    "hour": 9,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP (Compressor Output) is zero, indicating a possible air leak."
+  }
+]

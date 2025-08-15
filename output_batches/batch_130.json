@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-25 18:00:00",
+    "date": "2020-03-25",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-25 19:00:00",
+    "date": "2020-03-25",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-25 20:00:00",
+    "date": "2020-03-25",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-25 21:00:00",
+    "date": "2020-03-25",
+    "hour": 21,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-25 22:00:00",
+    "date": "2020-03-25",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-25 23:00:00",
+    "date": "2020-03-25",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-26 00:00:00",
+    "date": "2020-03-26",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-26 01:00:00",
+    "date": "2020-03-26",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-26 02:00:00",
+    "date": "2020-03-26",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-26 03:00:00",
+    "date": "2020-03-26",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  }
+]

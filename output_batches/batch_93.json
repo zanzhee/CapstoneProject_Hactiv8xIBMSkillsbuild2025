@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-10 08:00:00",
+    "date": "2020-03-10",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 09:00:00",
+    "date": "2020-03-10",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 10:00:00",
+    "date": "2020-03-10",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 11:00:00",
+    "date": "2020-03-10",
+    "hour": 11,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "DV_pressure is negative, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-10 12:00:00",
+    "date": "2020-03-10",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 0.96,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 13:00:00",
+    "date": "2020-03-10",
+    "hour": 13,
+    "label": "AirLeak",
+    "confidence": 0.87,
+    "reason": "DV_pressure is negative, indicating a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-10 14:00:00",
+    "date": "2020-03-10",
+    "hour": 14,
+    "label": "AirLeak",
+    "confidence": 0.89,
+    "reason": "DV_pressure is slightly positive, but within a range that could indicate minor air leak."
+  },
+  {
+    "timestamp": "2020-03-10 15:00:00",
+    "date": "2020-03-10",
+    "hour": 15,
+    "label": "AirLeak",
+    "confidence": 0.91,
+    "reason": "DV_pressure is slightly negative, but within a range that could indicate minor air leak."
+  },
+  {
+    "timestamp": "2020-03-10 16:00:00",
+    "date": "2020-03-10",
+    "hour": 16,
+    "label": "AirLeak",
+    "confidence": 0.92,
+    "reason": "DV_pressure is slightly negative, but within a range that could indicate minor air leak."
+  },
+  {
+    "timestamp": "2020-03-10 17:00:00",
+    "date": "2020-03-10",
+    "hour": 17,
+    "label": "AirLeak",
+    "confidence": 0.94,
+    "reason": "DV_pressure is slightly negative, but within a range that could indicate minor air leak."
+  }
+]

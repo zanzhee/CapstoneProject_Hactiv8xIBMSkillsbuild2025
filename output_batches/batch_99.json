@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-12 20:00:00",
+    "date": "2020-03-12",
+    "hour": "20",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All indicators within optimal range."
+  },
+  {
+    "timestamp": "2020-03-12 21:00:00",
+    "date": "2020-03-12",
+    "hour": "21",
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "Minor variations but still within acceptable range."
+  },
+  {
+    "timestamp": "2020-03-12 22:00:00",
+    "date": "2020-03-12",
+    "hour": "22",
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "Readings consistent with healthy baseline."
+  },
+  {
+    "timestamp": "2020-03-12 23:00:00",
+    "date": "2020-03-12",
+    "hour": "23",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All readings stable."
+  },
+  {
+    "timestamp": "2020-03-13 00:00:00",
+    "date": "2020-03-13",
+    "hour": "00",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "No anomalies detected."
+  },
+  {
+    "timestamp": "2020-03-13 01:00:00",
+    "date": "2020-03-13",
+    "hour": "01",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "Stable readings across all sensors."
+  },
+  {
+    "timestamp": "2020-03-13 02:00:00",
+    "date": "2020-03-13",
+    "hour": "02",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "System operating normally."
+  },
+  {
+    "timestamp": "2020-03-13 03:00:00",
+    "date": "2020-03-13",
+    "hour": "03",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "Healthy operating parameters."
+  },
+  {
+    "timestamp": "2020-03-13 04:00:00",
+    "date": "2020-03-13",
+    "hour": "04",
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "Minor fluctuation detected but not critical."
+  },
+  {
+    "timestamp": "2020-03-13 05:00:00",
+    "date": "2020-03-13",
+    "hour": "05",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All values well within limits."
+  }
+]

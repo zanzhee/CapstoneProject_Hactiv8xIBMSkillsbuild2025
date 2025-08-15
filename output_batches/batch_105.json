@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-15 08:00:00",
+    "date": "2020-03-15",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 09:00:00",
+    "date": "2020-03-15",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 10:00:00",
+    "date": "2020-03-15",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 11:00:00",
+    "date": "2020-03-15",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 12:00:00",
+    "date": "2020-03-15",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 13:00:00",
+    "date": "2020-03-15",
+    "hour": 13,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 14:00:00",
+    "date": "2020-03-15",
+    "hour": 14,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 15:00:00",
+    "date": "2020-03-15",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 16:00:00",
+    "date": "2020-03-15",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-15 17:00:00",
+    "date": "2020-03-15",
+    "hour": 17,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.98,
+    "reason": "COMP value of 1 indicates a potential air leak, and H1 value above 8 suggests high stress."
+  }
+]

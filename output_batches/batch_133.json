@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-27 00:00:00",
+    "date": "2020-03-27",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 01:00:00",
+    "date": "2020-03-27",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 02:00:00",
+    "date": "2020-03-27",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 03:00:00",
+    "date": "2020-03-27",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 04:00:00",
+    "date": "2020-03-27",
+    "hour": 4,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 05:00:00",
+    "date": "2020-03-27",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 06:00:00",
+    "date": "2020-03-27",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-27 07:00:00",
+    "date": "2020-03-27",
+    "hour": 7,
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Elevated oil temperature (69.02865013774105) and high motor current (4.666756198347107)."
+  },
+  {
+    "timestamp": "2020-03-27 08:00:00",
+    "date": "2020-03-27",
+    "hour": 8,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.98,
+    "reason": "Low COMP (0.0) and high oil temperature (74.95199724517907), indicating potential air leak and high stress."
+  },
+  {
+    "timestamp": "2020-03-27 09:00:00",
+    "date": "2020-03-27",
+    "hour": 9,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.98,
+    "reason": "Low COMP (0.0) and high oil temperature (75.49022038567493), indicating potential air leak and high stress."
+  }
+]

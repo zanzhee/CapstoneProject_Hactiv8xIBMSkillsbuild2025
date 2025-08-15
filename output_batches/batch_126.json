@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-24 02:00:00",
+    "date": "2020-03-24",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are NaN indicating no data or malfunction."
+  },
+  {
+    "timestamp": "2020-03-24 03:00:00",
+    "date": "2020-03-24",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-24 04:00:00",
+    "date": "2020-03-24",
+    "hour": 4,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-24 05:00:00",
+    "date": "2020-03-24",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-24 06:00:00",
+    "date": "2020-03-24",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-24 07:00:00",
+    "date": "2020-03-24",
+    "hour": 7,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-24 08:00:00",
+    "date": "2020-03-24",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-24 09:00:00",
+    "date": "2020-03-24",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-24 10:00:00",
+    "date": "2020-03-24",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-24 11:00:00",
+    "date": "2020-03-24",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  }
+]

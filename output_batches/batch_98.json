@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-12 10:00:00",
+    "date": "2020-03-12",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-12 11:00:00",
+    "date": "2020-03-12",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-12 12:00:00",
+    "date": "2020-03-12",
+    "hour": 12,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "COMP value (0.7355) indicates a possible air leak."
+  },
+  {
+    "timestamp": "2020-03-12 13:00:00",
+    "date": "2020-03-12",
+    "hour": 13,
+    "label": "HighStress",
+    "confidence": 0.92,
+    "reason": "High Motor_current (1.6695) and DV_pressure (-0.0188) suggest high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-03-12 14:00:00",
+    "date": "2020-03-12",
+    "hour": 14,
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "High Motor_current (1.7766) and DV_pressure (-0.0194) suggest high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-03-12 15:00:00",
+    "date": "2020-03-12",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All parameters within normal range."
+  },
+  {
+    "timestamp": "2020-03-12 16:00:00",
+    "date": "2020-03-12",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All parameters within normal range."
+  },
+  {
+    "timestamp": "2020-03-12 17:00:00",
+    "date": "2020-03-12",
+    "hour": 17,
+    "label": "HighStress",
+    "confidence": 0.94,
+    "reason": "High Motor_current (2.1291) and DV_pressure (-0.0187) suggest high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-03-12 18:00:00",
+    "date": "2020-03-12",
+    "hour": 18,
+    "label": "HighStress",
+    "confidence": 0.96,
+    "reason": "High Motor_current (2.0789) and DV_pressure (-0.0178) suggest high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-03-12 19:00:00",
+    "date": "2020-03-12",
+    "hour": 19,
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "High Motor_current (1.8353) and DV_pressure (-0.021977) suggest high stress on the compressor."
+  }
+]

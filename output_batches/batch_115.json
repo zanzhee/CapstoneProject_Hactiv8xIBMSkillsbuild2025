@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-19 12:00:00",
+    "date": "2020-03-19",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-19 13:00:00",
+    "date": "2020-03-19",
+    "hour": 13,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-19 14:00:00",
+    "date": "2020-03-19",
+    "hour": 14,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-19 15:00:00",
+    "date": "2020-03-19",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-19 16:00:00",
+    "date": "2020-03-19",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-19 17:00:00",
+    "date": "2020-03-19",
+    "hour": 17,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Low COMP value (0.956) and negative DV_pressure (-0.0226)."
+  },
+  {
+    "timestamp": "2020-03-19 18:00:00",
+    "date": "2020-03-19",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-19 19:00:00",
+    "date": "2020-03-19",
+    "hour": 19,
+    "label": "HighStress",
+    "confidence": 0.75,
+    "reason": "High Motor_current (1.3968) and COMP value (0.9146)."
+  },
+  {
+    "timestamp": "2020-03-19 20:00:00",
+    "date": "2020-03-19",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-19 21:00:00",
+    "date": "2020-03-19",
+    "hour": 21,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.65,
+    "reason": "Very low COMP value (1.0) and negative DV_pressure (-0.0237)."
+  }
+]

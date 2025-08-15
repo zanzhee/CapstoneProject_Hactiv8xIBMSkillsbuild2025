@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-09 22:00:00",
+    "date": "2020-03-10",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are NaN indicating no data or malfunction."
+  },
+  {
+    "timestamp": "2020-03-09 23:00:00",
+    "date": "2020-03-10",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are NaN indicating no data or malfunction."
+  },
+  {
+    "timestamp": "2020-03-10 00:00:00",
+    "date": "2020-03-10",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 01:00:00",
+    "date": "2020-03-10",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 02:00:00",
+    "date": "2020-03-10",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are NaN indicating no data or malfunction."
+  },
+  {
+    "timestamp": "2020-03-10 03:00:00",
+    "date": "2020-03-10",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 04:00:00",
+    "date": "2020-03-10",
+    "hour": 4,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 05:00:00",
+    "date": "2020-03-10",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 06:00:00",
+    "date": "2020-03-10",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-10 07:00:00",
+    "date": "2020-03-10",
+    "hour": 7,
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "COMP reading (0.7465564738292011) is below the normal range indicating high stress on the compressor."
+  }
+]

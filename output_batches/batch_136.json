@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-28 06:00:00",
+    "date": "2020-03-28",
+    "hour": "06",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-28 07:00:00",
+    "date": "2020-03-28",
+    "hour": "07",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-28 08:00:00",
+    "date": "2020-03-28",
+    "hour": "08",
+    "label": "AirLeak-HighStress",
+    "confidence": 0.95,
+    "reason": "COMP (Compressor Output) is zero, indicating a potential air leak or high stress condition."
+  },
+  {
+    "timestamp": "2020-03-28 09:00:00",
+    "date": "2020-03-28",
+    "hour": "09",
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values suggest missing data, which could indicate an air leak."
+  },
+  {
+    "timestamp": "2020-03-28 10:00:00",
+    "date": "2020-03-28",
+    "hour": "10",
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values suggest missing data, which could indicate an air leak."
+  },
+  {
+    "timestamp": "2020-03-28 11:00:00",
+    "date": "2020-03-28",
+    "hour": "11",
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values suggest missing data, which could indicate an air leak."
+  },
+  {
+    "timestamp": "2020-03-28 12:00:00",
+    "date": "2020-03-28",
+    "hour": "12",
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values suggest missing data, which could indicate an air leak."
+  },
+  {
+    "timestamp": "2020-03-28 13:00:00",
+    "date": "2020-03-28",
+    "hour": "13",
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values suggest missing data, which could indicate an air leak."
+  },
+  {
+    "timestamp": "2020-03-28 14:00:00",
+    "date": "2020-03-28",
+    "hour": "14",
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values suggest missing data, which could indicate an air leak."
+  },
+  {
+    "timestamp": "2020-03-28 15:00:00",
+    "date": "2020-03-28",
+    "hour": "15",
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values suggest missing data, which could indicate an air leak."
+  }
+]
