@@ -6,7 +6,7 @@ Muhammad Fauzan Azhima
 
 ## 📝 Project overview  
 Proyek ini bertujuan menganalisis pola kejadian gangguan pada unit produksi udara (Air Production Unit/APU) kompresor kereta metro menggunakan dataset **MetroPT-3** agar bisa didapat saran atau rekomendasi strategis yang bisa dilakukan untuk mengatasi gangguan tersebut.  
-Karena ukuran asli dataset yang terlalu besar (dataset asli direkeam dengan frekuensi 1 Hz atau setiap detik dari bulan februari 2020 - agustus 2020) dan keterbatasan perangkat, rekaman aslinya dirata-ratakan menjadi interval 60 menit dan periode analisis dibatasi (contoh: 10 Februari – 20 Maret).  
+Karena ukuran asli dataset yang terlalu besar (dataset asli direkeam dengan frekuensi 1 Hz atau setiap detik dari bulan februari 2020 - agustus 2020) dan keterbatasan perangkat, rekaman aslinya dirata-ratakan menjadi interval 60 menit dan periode analisis dibatasi menjadi 1 Feb 2020 – 28 Mar 2020.  
 
 Setiap sampel per jam dilabeli menjadi salah satu kategori:  
 - ✅ **Normal**  
