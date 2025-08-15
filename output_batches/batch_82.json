@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-05 18:00:00",
+    "date": "2020-03-05",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-05 19:00:00",
+    "date": "2020-03-05",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-05 20:00:00",
+    "date": "2020-03-05",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-05 21:00:00",
+    "date": "2020-03-05",
+    "hour": 21,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-05 22:00:00",
+    "date": "2020-03-05",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-05 23:00:00",
+    "date": "2020-03-05",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-06 00:00:00",
+    "date": "2020-03-06",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-06 01:00:00",
+    "date": "2020-03-06",
+    "hour": 1,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "COMP value of 1.0 indicates a potential air leak."
+  },
+  {
+    "timestamp": "2020-03-06 02:00:00",
+    "date": "2020-03-06",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-06 03:00:00",
+    "date": "2020-03-06",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  }
+]

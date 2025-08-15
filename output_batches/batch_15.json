@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2020-02-06 23:00:00",
+    "date": "2020-02-07",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 04:00:00",
+    "date": "2020-02-07",
+    "hour": 4,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 05:00:00",
+    "date": "2020-02-07",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  }
+]

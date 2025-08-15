@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-04 18:00:00",
+    "date": "2020-02-04",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 19:00:00",
+    "date": "2020-02-04",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 20:00:00",
+    "date": "2020-02-04",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 21:00:00",
+    "date": "2020-02-04",
+    "hour": 21,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Elevated Motor_current and COMP values."
+  },
+  {
+    "timestamp": "2020-02-04 22:00:00",
+    "date": "2020-02-04",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 23:00:00",
+    "date": "2020-02-04",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-05 00:00:00",
+    "date": "2020-02-05",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-05 01:00:00",
+    "date": "2020-02-05",
+    "hour": 1,
+    "label": "AirLeak",
+    "confidence": 0.9,
+    "reason": "TP3 and H1 values suggest possible air leak."
+  },
+  {
+    "timestamp": "2020-02-05 02:00:00",
+    "date": "2020-02-05",
+    "hour": 2,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.7,
+    "reason": "NaN values suggest potential sensor malfunction, possibly due to high stress or air leak."
+  },
+  {
+    "timestamp": "2020-02-05 03:00:00",
+    "date": "2020-02-05",
+    "hour": 3,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.7,
+    "reason": "NaN values suggest potential sensor malfunction, possibly due to high stress or air leak."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-06 10:00:00",
+    "date": "2020-02-06",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 11:00:00",
+    "date": "2020-02-06",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 12:00:00",
+    "date": "2020-02-06",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 13:00:00",
+    "date": "2020-02-06",
+    "hour": 13,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 14:00:00",
+    "date": "2020-02-06",
+    "hour": 14,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 15:00:00",
+    "date": "2020-02-06",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 16:00:00",
+    "date": "2020-02-06",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 17:00:00",
+    "date": "2020-02-06",
+    "hour": 17,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 18:00:00",
+    "date": "2020-02-06",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 19:00:00",
+    "date": "2020-02-06",
+    "hour": 19,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.85,
+    "reason": "COMP value of 1.0 and Motor_current significantly high (1.3796763085399444) indicating potential air leak and high stress."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2020-02-01 23:00:00",
+    "date": "2020-02-02",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-02 04:00:00",
+    "date": "2020-02-02",
+    "hour": 4,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "Slightly elevated COMP value (0.9806451612903224) indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-02-02 05:00:00",
+    "date": "2020-02-02",
+    "hour": 5,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.85,
+    "reason": "Elevated COMP value (0.90633608815427) and DV_pressure value (-0.0175592286501383), suggesting both air leak and high stress on the compressor."
+  }
+]

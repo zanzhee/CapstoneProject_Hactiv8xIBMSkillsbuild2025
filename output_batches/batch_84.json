@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-06 14:00:00",
+    "date": "2020-03-06",
+    "hour": 14,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-06 15:00:00",
+    "date": "2020-03-06",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-06 16:00:00",
+    "date": "2020-03-06",
+    "hour": 16,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Elevated Motor_current and DV_eletric readings suggest high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-03-06 17:00:00",
+    "date": "2020-03-06",
+    "hour": 17,
+    "label": "Normal",
+    "confidence": 0.92,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-06 18:00:00",
+    "date": "2020-03-06",
+    "hour": 18,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.75,
+    "reason": "Negative DV_pressure and elevated Motor_current suggest both air leak and high stress."
+  },
+  {
+    "timestamp": "2020-03-06 19:00:00",
+    "date": "2020-03-06",
+    "hour": 19,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Elevated Motor_current suggests high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-03-06 20:00:00",
+    "date": "2020-03-06",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-03-06 21:00:00",
+    "date": "2020-03-06",
+    "hour": 21,
+    "label": "AirLeak",
+    "confidence": 0.8,
+    "reason": "Positive DV_pressure and low COMP suggest an air leak."
+  },
+  {
+    "timestamp": "2020-03-06 22:00:00",
+    "date": "2020-03-06",
+    "hour": 22,
+    "label": "AirLeak",
+    "confidence": 0.9,
+    "reason": "Zero COMP and high DV_eletric suggest an air leak."
+  },
+  {
+    "timestamp": "2020-03-06 23:00:00",
+    "date": "2020-03-06",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings are within normal operational ranges."
+  }
+]

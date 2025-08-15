@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2020-02-23 05:00:00",
+    "date": "2020-02-23",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All parameters within normal range."
+  },
+  {
+    "timestamp": "2020-02-23 06:00:00",
+    "date": "2020-02-23",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All parameters within normal range."
+  },
+  {
+    "timestamp": "2020-02-23 07:00:00",
+    "date": "2020-02-23",
+    "hour": 7,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All parameters within normal range."
+  },
+  {
+    "timestamp": "2020-02-23 08:00:00",
+    "date": "2020-02-23",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All parameters within normal range."
+  },
+  {
+    "timestamp": "2020-02-23 09:00:00",
+    "date": "2020-02-23",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All parameters within normal range."
+  },
+  {
+    "timestamp": "2020-02-23 10:00:00",
+    "date": "2020-02-23",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All parameters within normal range."
+  },
+  {
+    "timestamp": "2020-02-23 11:00:00",
+    "date": "2020-02-23",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All parameters within normal range."
+  }
+]

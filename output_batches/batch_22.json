@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-09 18:00:00",
+    "date": "2020-02-09",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-09 19:00:00",
+    "date": "2020-02-09",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-09 20:00:00",
+    "date": "2020-02-09",
+    "hour": 20,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Motor_current (2.04) and COMP (0.90) readings are elevated."
+  },
+  {
+    "timestamp": "2020-02-09 21:00:00",
+    "date": "2020-02-09",
+    "hour": 21,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-09 22:00:00",
+    "date": "2020-02-09",
+    "hour": 22,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.75,
+    "reason": "DV_pressure (-0.0168) and Motor_current (2.40) readings suggest air leak and high stress."
+  },
+  {
+    "timestamp": "2020-02-09 23:00:00",
+    "date": "2020-02-09",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-10 00:00:00",
+    "date": "2020-02-10",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-10 01:00:00",
+    "date": "2020-02-10",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-10 02:00:00",
+    "date": "2020-02-10",
+    "hour": 2,
+    "label": "NaN",
+    "confidence": NaN,
+    "reason": "Missing sensor data."
+  },
+  {
+    "timestamp": "2020-02-10 03:00:00",
+    "date": "2020-02-10",
+    "hour": 3,
+    "label": "NaN",
+    "confidence": NaN,
+    "reason": "Missing sensor data."
+  }
+]

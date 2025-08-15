@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-04 22:00:00",
+    "date": "2020-03-04",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-03-04 23:00:00",
+    "date": "2020-03-04",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-03-05 00:00:00",
+    "date": "2020-03-05",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-03-05 01:00:00",
+    "date": "2020-03-05",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-03-05 02:00:00",
+    "date": "2020-03-05",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-03-05 03:00:00",
+    "date": "2020-03-05",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-03-05 04:00:00",
+    "date": "2020-03-05",
+    "hour": 4,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Motor_current (2.545075757575757) is significantly higher than average, indicating potential high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-03-05 05:00:00",
+    "date": "2020-03-05",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-03-05 06:00:00",
+    "date": "2020-03-05",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-03-05 07:00:00",
+    "date": "2020-03-05",
+    "hour": 7,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Motor_current (3.521487603305785) is significantly higher than average, indicating potential high stress on the compressor."
+  }
+]

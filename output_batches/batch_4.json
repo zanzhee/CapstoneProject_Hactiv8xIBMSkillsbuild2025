@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-02 06:00:00",
+    "date": "2020-02-02",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 07:00:00",
+    "date": "2020-02-02",
+    "hour": 7,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 08:00:00",
+    "date": "2020-02-02",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 09:00:00",
+    "date": "2020-02-02",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 10:00:00",
+    "date": "2020-02-02",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 11:00:00",
+    "date": "2020-02-02",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 12:00:00",
+    "date": "2020-02-02",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 13:00:00",
+    "date": "2020-02-02",
+    "hour": 13,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 14:00:00",
+    "date": "2020-02-02",
+    "hour": 14,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  },
+  {
+    "timestamp": "2020-02-02 15:00:00",
+    "date": "2020-02-02",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational range."
+  }
+]

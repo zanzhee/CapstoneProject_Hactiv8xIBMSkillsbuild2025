@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-04 08:00:00",
+    "date": "2020-02-04",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 09:00:00",
+    "date": "2020-02-04",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 10:00:00",
+    "date": "2020-02-04",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 11:00:00",
+    "date": "2020-02-04",
+    "hour": 11,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "Significant drop in COMP (0.9697802197802198) indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-02-04 12:00:00",
+    "date": "2020-02-04",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 13:00:00",
+    "date": "2020-02-04",
+    "hour": 13,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 14:00:00",
+    "date": "2020-02-04",
+    "hour": 14,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 15:00:00",
+    "date": "2020-02-04",
+    "hour": 15,
+    "label": "AirLeak-HighStress",
+    "confidence": 0.85,
+    "reason": "High Motor_current (1.262589531680441) and significant DV_pressure drop (-0.0190578512396693), indicating both air leak and high stress."
+  },
+  {
+    "timestamp": "2020-02-04 16:00:00",
+    "date": "2020-02-04",
+    "hour": 16,
+    "label": "HighStress",
+    "confidence": 0.9,
+    "reason": "High Motor_current (1.861675824175824) and DV_eletric (0.0906593406593406), indicating high stress on the system."
+  },
+  {
+    "timestamp": "2020-02-04 17:00:00",
+    "date": "2020-02-04",
+    "hour": 17,
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "High Motor_current (1.341212121212121) and DV_eletric (0.0771349862258953), indicating high stress on the system."
+  }
+]

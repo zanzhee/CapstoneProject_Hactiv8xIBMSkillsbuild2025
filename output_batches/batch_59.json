@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-25 04:00:00",
+    "date": "2020-02-25",
+    "hour": 4,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-25 05:00:00",
+    "date": "2020-02-25",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-25 06:00:00",
+    "date": "2020-02-25",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-25 07:00:00",
+    "date": "2020-02-25",
+    "hour": 7,
+    "label": "HighStress",
+    "confidence": 0.93,
+    "reason": "Elevated Motor_current and COMP values."
+  },
+  {
+    "timestamp": "2020-02-25 08:00:00",
+    "date": "2020-02-25",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-25 09:00:00",
+    "date": "2020-02-25",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-25 10:00:00",
+    "date": "2020-02-25",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-25 11:00:00",
+    "date": "2020-02-25",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-25 12:00:00",
+    "date": "2020-02-25",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-25 13:00:00",
+    "date": "2020-02-25",
+    "hour": 13,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Slightly elevated DV_pressure and reduced COMP value."
+  }
+]

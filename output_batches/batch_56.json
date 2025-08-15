@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-23 22:00:00",
+    "date": "2020-02-23",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-23 23:00:00",
+    "date": "2020-02-23",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-24 00:00:00",
+    "date": "2020-02-24",
+    "hour": 0,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in sensor readings, suggesting potential air leak."
+  },
+  {
+    "timestamp": "2020-02-24 01:00:00",
+    "date": "2020-02-24",
+    "hour": 1,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in sensor readings, suggesting potential air leak."
+  },
+  {
+    "timestamp": "2020-02-24 02:00:00",
+    "date": "2020-02-24",
+    "hour": 2,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in sensor readings, suggesting potential air leak."
+  },
+  {
+    "timestamp": "2020-02-24 03:00:00",
+    "date": "2020-02-24",
+    "hour": 3,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in sensor readings, suggesting potential air leak."
+  },
+  {
+    "timestamp": "2020-02-24 04:00:00",
+    "date": "2020-02-24",
+    "hour": 4,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in sensor readings, suggesting potential air leak."
+  },
+  {
+    "timestamp": "2020-02-24 05:00:00",
+    "date": "2020-02-24",
+    "hour": 5,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in sensor readings, suggesting potential air leak."
+  },
+  {
+    "timestamp": "2020-02-24 06:00:00",
+    "date": "2020-02-24",
+    "hour": 6,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in sensor readings, suggesting potential air leak."
+  },
+  {
+    "timestamp": "2020-02-24 07:00:00",
+    "date": "2020-02-24",
+    "hour": 7,
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Elevated oil temperature and motor current suggest high stress on the compressor."
+  }
+]

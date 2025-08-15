@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-03 22:00:00",
+    "date": "2020-02-04",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-03 23:00:00",
+    "date": "2020-02-04",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 00:00:00",
+    "date": "2020-02-04",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 01:00:00",
+    "date": "2020-02-04",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 02:00:00",
+    "date": "2020-02-04",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 03:00:00",
+    "date": "2020-02-04",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 04:00:00",
+    "date": "2020-02-04",
+    "hour": 4,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 05:00:00",
+    "date": "2020-02-04",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-04 06:00:00",
+    "date": "2020-02-04",
+    "hour": 6,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Elevated motor current (1.85) and oil temperature (54.66)."
+  },
+  {
+    "timestamp": "2020-02-04 07:00:00",
+    "date": "2020-02-04",
+    "hour": 7,
+    "label": "AirLeak",
+    "confidence": 0.9,
+    "reason": "Slightly elevated DV_pressure (-0.0218)."
+  }
+]

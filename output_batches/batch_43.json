@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-18 12:00:00",
+    "date": "2020-02-18",
+    "hour": "12",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 13:00:00",
+    "date": "2020-02-18",
+    "hour": "13",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 14:00:00",
+    "date": "2020-02-18",
+    "hour": "14",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 15:00:00",
+    "date": "2020-02-18",
+    "hour": "15",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 16:00:00",
+    "date": "2020-02-18",
+    "hour": "16",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 17:00:00",
+    "date": "2020-02-18",
+    "hour": "17",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 18:00:00",
+    "date": "2020-02-18",
+    "hour": "18",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 19:00:00",
+    "date": "2020-02-18",
+    "hour": "19",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 20:00:00",
+    "date": "2020-02-18",
+    "hour": "20",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-18 21:00:00",
+    "date": "2020-02-18",
+    "hour": "21",
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  }
+]

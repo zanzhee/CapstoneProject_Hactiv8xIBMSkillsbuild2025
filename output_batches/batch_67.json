@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-28 12:00:00",
+    "date": "2020-02-28",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 13:00:00",
+    "date": "2020-02-28",
+    "hour": 13,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 14:00:00",
+    "date": "2020-02-28",
+    "hour": 14,
+    "label": "HighStress",
+    "confidence": 0.9,
+    "reason": "Elevated Motor_current and COMP values."
+  },
+  {
+    "timestamp": "2020-02-28 15:00:00",
+    "date": "2020-02-28",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 16:00:00",
+    "date": "2020-02-28",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 17:00:00",
+    "date": "2020-02-28",
+    "hour": 17,
+    "label": "HighStress",
+    "confidence": 0.9,
+    "reason": "Elevated Motor_current and COMP values."
+  },
+  {
+    "timestamp": "2020-02-28 18:00:00",
+    "date": "2020-02-28",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 19:00:00",
+    "date": "2020-02-28",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 20:00:00",
+    "date": "2020-02-28",
+    "hour": 20,
+    "label": "AirLeak",
+    "confidence": 0.75,
+    "reason": "Low COMP value indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-02-28 21:00:00",
+    "date": "2020-02-28",
+    "hour": 21,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings within normal range."
+  }
+]

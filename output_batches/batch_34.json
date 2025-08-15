@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-14 18:00:00",
+    "date": "2020-02-14",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-14 19:00:00",
+    "date": "2020-02-14",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-14 20:00:00",
+    "date": "2020-02-14",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-14 21:00:00",
+    "date": "2020-02-14",
+    "hour": 21,
+    "label": "Normal",
+    "confidence": 0.96,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-14 22:00:00",
+    "date": "2020-02-14",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-14 23:00:00",
+    "date": "2020-02-14",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-15 00:00:00",
+    "date": "2020-02-15",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-15 01:00:00",
+    "date": "2020-02-15",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-15 02:00:00",
+    "date": "2020-02-15",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-15 03:00:00",
+    "date": "2020-02-15",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 0.97,
+    "reason": "All sensor readings are within normal operational ranges."
+  }
+]

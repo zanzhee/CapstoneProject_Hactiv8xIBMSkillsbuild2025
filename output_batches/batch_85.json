@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-07 00:00:00",
+    "date": "2020-03-07",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-07 01:00:00",
+    "date": "2020-03-07",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-07 02:00:00",
+    "date": "2020-03-07",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-07 03:00:00",
+    "date": "2020-03-07",
+    "hour": 3,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "NaN values detected in several sensors, suggesting a potential air leak."
+  },
+  {
+    "timestamp": "2020-03-07 04:00:00",
+    "date": "2020-03-07",
+    "hour": 4,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected in several sensors, suggesting a potential air leak."
+  },
+  {
+    "timestamp": "2020-03-07 05:00:00",
+    "date": "2020-03-07",
+    "hour": 5,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected in several sensors, suggesting a potential air leak."
+  },
+  {
+    "timestamp": "2020-03-07 06:00:00",
+    "date": "2020-03-07",
+    "hour": 6,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected in several sensors, suggesting a potential air leak."
+  },
+  {
+    "timestamp": "2020-03-07 07:00:00",
+    "date": "2020-03-07",
+    "hour": 7,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected in several sensors, suggesting a potential air leak."
+  },
+  {
+    "timestamp": "2020-03-07 08:00:00",
+    "date": "2020-03-07",
+    "hour": 8,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected in several sensors, suggesting a potential air leak."
+  },
+  {
+    "timestamp": "2020-03-07 09:00:00",
+    "date": "2020-03-07",
+    "hour": 9,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected in several sensors, suggesting a potential air leak."
+  }
+]

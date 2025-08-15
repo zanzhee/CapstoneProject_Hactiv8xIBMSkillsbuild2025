@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-28 02:00:00",
+    "date": "2020-02-28",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 03:00:00",
+    "date": "2020-02-28",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 04:00:00",
+    "date": "2020-02-28",
+    "hour": 4,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 05:00:00",
+    "date": "2020-02-28",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 06:00:00",
+    "date": "2020-02-28",
+    "hour": 6,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "High DV_pressure and Motor_current indicate potential air leak."
+  },
+  {
+    "timestamp": "2020-02-28 07:00:00",
+    "date": "2020-02-28",
+    "hour": 7,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 08:00:00",
+    "date": "2020-02-28",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 09:00:00",
+    "date": "2020-02-28",
+    "hour": 9,
+    "label": "HighStress",
+    "confidence": 0.85,
+    "reason": "Elevated Motor_current and Oil_temperature suggest high stress."
+  },
+  {
+    "timestamp": "2020-02-28 10:00:00",
+    "date": "2020-02-28",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 11:00:00",
+    "date": "2020-02-28",
+    "hour": 11,
+    "label": "AirLeak",
+    "confidence": 0.9,
+    "reason": "High DV_pressure and Motor_current indicate potential air leak."
+  }
+]

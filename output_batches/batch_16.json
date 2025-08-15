@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-07 06:00:00",
+    "date": "2020-02-07",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 07:00:00",
+    "date": "2020-02-07",
+    "hour": 7,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 08:00:00",
+    "date": "2020-02-07",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 09:00:00",
+    "date": "2020-02-07",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 10:00:00",
+    "date": "2020-02-07",
+    "hour": 10,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 11:00:00",
+    "date": "2020-02-07",
+    "hour": 11,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 12:00:00",
+    "date": "2020-02-07",
+    "hour": 12,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 13:00:00",
+    "date": "2020-02-07",
+    "hour": 13,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 14:00:00",
+    "date": "2020-02-07",
+    "hour": 14,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-07 15:00:00",
+    "date": "2020-02-07",
+    "hour": 15,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  }
+]

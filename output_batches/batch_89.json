@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-08 16:00:00",
+    "date": "2020-03-08",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-08 17:00:00",
+    "date": "2020-03-08",
+    "hour": 17,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-08 18:00:00",
+    "date": "2020-03-08",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-08 19:00:00",
+    "date": "2020-03-08",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-08 20:00:00",
+    "date": "2020-03-08",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-08 21:00:00",
+    "date": "2020-03-08",
+    "hour": 21,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-08 22:00:00",
+    "date": "2020-03-08",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-08 23:00:00",
+    "date": "2020-03-08",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-09 00:00:00",
+    "date": "2020-03-09",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-03-09 01:00:00",
+    "date": "2020-03-09",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 0.99,
+    "reason": "All sensor readings within normal range."
+  }
+]

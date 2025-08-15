@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-08 22:00:00",
+    "date": "2020-02-08",
+    "hour": 22,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-08 23:00:00",
+    "date": "2020-02-08",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-09 00:00:00",
+    "date": "2020-02-09",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-09 01:00:00",
+    "date": "2020-02-09",
+    "hour": 1,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in several sensors, indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-02-09 02:00:00",
+    "date": "2020-02-09",
+    "hour": 2,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in several sensors, indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-02-09 03:00:00",
+    "date": "2020-02-09",
+    "hour": 3,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "NaN values detected in several sensors, indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-02-09 04:00:00",
+    "date": "2020-02-09",
+    "hour": 4,
+    "label": "HighStress",
+    "confidence": 0.75,
+    "reason": "High motor current and oil temperature suggest high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-02-09 05:00:00",
+    "date": "2020-02-09",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-09 06:00:00",
+    "date": "2020-02-09",
+    "hour": 6,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-09 07:00:00",
+    "date": "2020-02-09",
+    "hour": 7,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal operational ranges."
+  }
+]

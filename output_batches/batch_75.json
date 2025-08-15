@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-02 20:00:00",
+    "date": "2020-03-02",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-02 21:00:00",
+    "date": "2020-03-02",
+    "hour": 21,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "NaN values detected, indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-03-02 22:00:00",
+    "date": "2020-03-02",
+    "hour": 22,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected, indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-03-02 23:00:00",
+    "date": "2020-03-02",
+    "hour": 23,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected, indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-03-03 00:00:00",
+    "date": "2020-03-03",
+    "hour": 0,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected, indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-03-03 01:00:00",
+    "date": "2020-03-03",
+    "hour": 1,
+    "label": "AirLeak",
+    "confidence": 1.0,
+    "reason": "NaN values detected, indicating potential air leak."
+  },
+  {
+    "timestamp": "2020-03-03 02:00:00",
+    "date": "2020-03-03",
+    "hour": 2,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-03 03:00:00",
+    "date": "2020-03-03",
+    "hour": 3,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-03 04:00:00",
+    "date": "2020-03-03",
+    "hour": 4,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  },
+  {
+    "timestamp": "2020-03-03 05:00:00",
+    "date": "2020-03-03",
+    "hour": 5,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings are within normal ranges."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-19 18:00:00",
+    "date": "2020-02-19",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-19 19:00:00",
+    "date": "2020-02-19",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-19 20:00:00",
+    "date": "2020-02-19",
+    "hour": 20,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Negative DV_pressure and low COMP value suggest possible air leak."
+  },
+  {
+    "timestamp": "2020-02-19 21:00:00",
+    "date": "2020-02-19",
+    "hour": 21,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Missing sensor data, cannot determine status."
+  },
+  {
+    "timestamp": "2020-02-19 22:00:00",
+    "date": "2020-02-19",
+    "hour": 22,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Missing sensor data, cannot determine status."
+  },
+  {
+    "timestamp": "2020-02-19 23:00:00",
+    "date": "2020-02-19",
+    "hour": 23,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Missing sensor data, cannot determine status."
+  },
+  {
+    "timestamp": "2020-02-20 00:00:00",
+    "date": "2020-02-20",
+    "hour": 0,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Missing sensor data, cannot determine status."
+  },
+  {
+    "timestamp": "2020-02-20 01:00:00",
+    "date": "2020-02-20",
+    "hour": 1,
+    "label": "HighStress",
+    "confidence": 0.75,
+    "reason": "High Motor_current and low Oil_temperature suggest high stress on the compressor."
+  },
+  {
+    "timestamp": "2020-02-20 02:00:00",
+    "date": "2020-02-20",
+    "hour": 2,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Missing sensor data, cannot determine status."
+  },
+  {
+    "timestamp": "2020-02-20 03:00:00",
+    "date": "2020-02-20",
+    "hour": 3,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Missing sensor data, cannot determine status."
+  }
+]

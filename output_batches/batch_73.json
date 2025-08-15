@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-03-02 00:00:00",
+    "date": "2020-03-02",
+    "hour": "00",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  },
+  {
+    "timestamp": "2020-03-02 01:00:00",
+    "date": "2020-03-02",
+    "hour": "01",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  },
+  {
+    "timestamp": "2020-03-02 02:00:00",
+    "date": "2020-03-02",
+    "hour": "02",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  },
+  {
+    "timestamp": "2020-03-02 03:00:00",
+    "date": "2020-03-02",
+    "hour": "03",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  },
+  {
+    "timestamp": "2020-03-02 04:00:00",
+    "date": "2020-03-02",
+    "hour": "04",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  },
+  {
+    "timestamp": "2020-03-02 05:00:00",
+    "date": "2020-03-02",
+    "hour": "05",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  },
+  {
+    "timestamp": "2020-03-02 06:00:00",
+    "date": "2020-03-02",
+    "hour": "06",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  },
+  {
+    "timestamp": "2020-03-02 07:00:00",
+    "date": "2020-03-02",
+    "hour": "07",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current extremely high and COMP below optimal range."
+  },
+  {
+    "timestamp": "2020-03-02 08:00:00",
+    "date": "2020-03-02",
+    "hour": "08",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  },
+  {
+    "timestamp": "2020-03-02 09:00:00",
+    "date": "2020-03-02",
+    "hour": "09",
+    "label": "HighStress",
+    "confidence": 0.95,
+    "reason": "Motor current significantly above normal operating range."
+  }
+]

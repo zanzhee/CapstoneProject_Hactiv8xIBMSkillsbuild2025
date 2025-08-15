@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-27 16:00:00",
+    "date": "2020-02-27",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-27 17:00:00",
+    "date": "2020-02-27",
+    "hour": 17,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-27 18:00:00",
+    "date": "2020-02-27",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-27 19:00:00",
+    "date": "2020-02-27",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-27 20:00:00",
+    "date": "2020-02-27",
+    "hour": 20,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-27 21:00:00",
+    "date": "2020-02-27",
+    "hour": 21,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-27 22:00:00",
+    "date": "2020-02-27",
+    "hour": 22,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "Low COMP value (0.964630225080386) suggests possible air leak."
+  },
+  {
+    "timestamp": "2020-02-27 23:00:00",
+    "date": "2020-02-27",
+    "hour": 23,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 00:00:00",
+    "date": "2020-02-28",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-28 01:00:00",
+    "date": "2020-02-28",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 0.98,
+    "reason": "All sensor readings within normal range."
+  }
+]

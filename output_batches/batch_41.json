@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-17 16:00:00",
+    "date": "2020-02-17",
+    "hour": 16,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-17 17:00:00",
+    "date": "2020-02-17",
+    "hour": 17,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-17 18:00:00",
+    "date": "2020-02-17",
+    "hour": 18,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-17 19:00:00",
+    "date": "2020-02-17",
+    "hour": 19,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-17 20:00:00",
+    "date": "2020-02-17",
+    "hour": 20,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Low TP2 value (0.29) suggests possible air leak."
+  },
+  {
+    "timestamp": "2020-02-17 21:00:00",
+    "date": "2020-02-17",
+    "hour": 21,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-17 22:00:00",
+    "date": "2020-02-17",
+    "hour": 22,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Low TP2 value (0.24) suggests possible air leak."
+  },
+  {
+    "timestamp": "2020-02-17 23:00:00",
+    "date": "2020-02-17",
+    "hour": 23,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Low TP2 value (0.24) suggests possible air leak."
+  },
+  {
+    "timestamp": "2020-02-18 00:00:00",
+    "date": "2020-02-18",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 0.95,
+    "reason": "All sensor readings are within normal operational ranges."
+  },
+  {
+    "timestamp": "2020-02-18 01:00:00",
+    "date": "2020-02-18",
+    "hour": 1,
+    "label": "AirLeak",
+    "confidence": 0.85,
+    "reason": "Low TP2 value (0.24) suggests possible air leak."
+  }
+]

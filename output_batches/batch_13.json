@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2020-02-06 00:00:00",
+    "date": "2020-02-06",
+    "hour": 0,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 01:00:00",
+    "date": "2020-02-06",
+    "hour": 1,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 02:00:00",
+    "date": "2020-02-06",
+    "hour": 2,
+    "label": "AirLeak",
+    "confidence": 0.95,
+    "reason": "TP3 and H1 values suggest an air leak."
+  },
+  {
+    "timestamp": "2020-02-06 03:00:00",
+    "date": "2020-02-06",
+    "hour": 3,
+    "label": "NaN",
+    "confidence": 0.0,
+    "reason": "Missing sensor data."
+  },
+  {
+    "timestamp": "2020-02-06 04:00:00",
+    "date": "2020-02-06",
+    "hour": 4,
+    "label": "NaN",
+    "confidence": 0.0,
+    "reason": "Missing sensor data."
+  },
+  {
+    "timestamp": "2020-02-06 05:00:00",
+    "date": "2020-02-06",
+    "hour": 5,
+    "label": "NaN",
+    "confidence": 0.0,
+    "reason": "Missing sensor data."
+  },
+  {
+    "timestamp": "2020-02-06 06:00:00",
+    "date": "2020-02-06",
+    "hour": 6,
+    "label": "NaN",
+    "confidence": 0.0,
+    "reason": "Missing sensor data."
+  },
+  {
+    "timestamp": "2020-02-06 07:00:00",
+    "date": "2020-02-06",
+    "hour": 7,
+    "label": "HighStress",
+    "confidence": 0.9,
+    "reason": "High Motor_current and Oil_temperature suggest high stress."
+  },
+  {
+    "timestamp": "2020-02-06 08:00:00",
+    "date": "2020-02-06",
+    "hour": 8,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  },
+  {
+    "timestamp": "2020-02-06 09:00:00",
+    "date": "2020-02-06",
+    "hour": 9,
+    "label": "Normal",
+    "confidence": 1.0,
+    "reason": "All sensor readings within normal range."
+  }
+]
