@@ -5,8 +5,13 @@ Muhammad Fauzan Azhima
 ---
 
 ## 📝 Project overview  
-Proyek ini bertujuan menganalisis pola kejadian gangguan pada unit produksi udara (Air Production Unit/APU) kompresor kereta metro menggunakan dataset **MetroPT-3** agar bisa didapat saran atau rekomendasi strategis yang bisa dilakukan untuk mengatasi gangguan tersebut.  
-Karena ukuran asli dataset yang terlalu besar (dataset asli direkeam dengan frekuensi 1 Hz atau setiap detik dari bulan februari 2020 - agustus 2020) dan keterbatasan perangkat, rekaman aslinya dirata-ratakan menjadi interval 60 menit dan periode analisis dibatasi menjadi 1 Feb 2020 – 28 Mar 2020.  
+Unit Produksi Udara (Air Production Unit/APU) pada kompresor kereta metro adalah komponen vital yang bertugas menjaga tekanan udara untuk sistem rem, pintu, dan berbagai mekanisme pneumatik. Gangguan pada sistem ini, seperti *air leak* atau *high stress*, dapat menyebabkan penurunan kinerja hingga potensi kerusakan serius yang mengganggu operasional kereta. Oleh karena itu, pemantauan kondisi APU secara rutin menjadi kunci untuk menjaga keselamatan dan efisiensi.
+
+Proyek ini hadir untuk menjawab permasalahan tersebut dengan memanfaatkan dataset **MetroPT-3**, yang berisi rekaman multivariate time series dari 15 sensor APU. Permasalahan utama yang dihadapi adalah ukuran dataset yang sangat besar (rekaman 1 Hz selama Februari 2020 - Agustus 2020), keterbatasan perangkat, dan tidak adanya label kondisi pada data mentah. Data mentah perlu diolah agar dapat digunakan untuk analisis pola gangguan secara efektif.
+
+Pendekatan yang diambil dimulai dengan merata-ratakan data menjadi interval 60 menit untuk mengurangi ukuran dataset dan membatasi periode analisis 1 Februari 2020 - 28 Maret 2020. Data hasil agregasi kemudian dilabeli menjadi empat kategori kondisi operasional: **Normal**, **AirLeak**, **HighStress**, dan **AirLeak-HighStress**. Proses pelabelan dilakukan oleh **Granite 3.2 8B** yang dijalankan secara lokal melalui **LM Studio**, dengan **Python** sebagai antarmuka pemrograman untuk mengatur alur kerja dan pemrosesan hasil.
+
+Karena keterbatasan token model, pelabelan dilakukan dalam batch dan hasilnya digabungkan kembali menjadi satu dataset terlabel lengkap. Python kemudian digunakan untuk menghitung tren jam dan hari rawan terjadinya gangguan. Ringkasan tren yang padat ini dikirim ke Granite untuk dianalisis, sehingga Granite dapat memberikan rekomendasi strategis yang langsung dapat diimplementasikan oleh perusahaan, seperti penjadwalan *preventive maintenance*, pengaturan beban operasi di jam rawan, dan penerapan sistem peringatan dini. Dengan pendekatan ini, proyek tidak hanya mengidentifikasi pola gangguan, tetapi juga mengubah data mentah menjadi wawasan operasional yang actionable bagi pengambil keputusan.
 
 Setiap sampel per jam dilabeli menjadi salah satu kategori:  
 - ✅ **Normal**  
@@ -45,9 +50,25 @@ Seluruh proses yang melibatkan pemahaman bahasa alami (NLU), pelabelan berbasis 
 - Menyusun ringkasan tren efisien untuk ditinjau Granite.  
 
 Peran AI dalam proyek ini:  
-- 🏷️ Pelabelan dataset per jam (batched).  
-- 📊 Interpretasi pola tren.  
-- 💡 Pemberian saran operasional & strategis.
+
+### 🏷️ Pelabelan Data Operasional  
+- Mengkategorikan setiap sampel per jam ke dalam label **Normal**, **AirLeak**, **HighStress**, atau **AirLeak-HighStress**.  
+- Proses dilakukan dalam batch karena keterbatasan token/memori model.  
+
+### 📊 Analisis Tren Berbasis Ringkasan  
+- Menerima ringkasan tren yang dihasilkan Python (jam & hari rawan).  
+- Menginterpretasi pola dari tren tersebut untuk menemukan insight tambahan.  
+
+### 💡 Pemberian Rekomendasi Strategis  
+- Mengusulkan langkah yang dapat dilakukan perusahaan untuk mengurangi risiko gangguan, seperti:  
+  - Penjadwalan *preventive maintenance* di waktu optimal.  
+  - Penyesuaian beban operasional di jam rawan.  
+  - Implementasi sistem peringatan dini.  
+
+### 📢 Pendukung Insight Operasional  
+- Memberikan narasi penjelasan yang mudah dipahami pengambil keputusan, sehingga data teknis bisa langsung diterjemahkan menjadi kebijakan operasional.
+
+
 
 ---
 
