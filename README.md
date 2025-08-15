@@ -25,7 +25,7 @@ Untuk efisiensi token dan memori model, pelabelan dilakukan dalam batch. Hasil p
 
 ## 🔗 Raw dataset  
 MetroPT-3 (AirCompressor) — multivariate time series dari 15 sensor APU kompresor kereta metro.  
-📥 [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/791/metropt%2B3%2Bdataset?utm_source=chatgpt.com)  
+📥 [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/791/metropt%2B3%2Bdataset?utm_)  
 
 ---
 
