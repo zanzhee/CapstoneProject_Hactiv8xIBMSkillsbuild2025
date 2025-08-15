@@ -1,4 +1,4 @@
-# 📊 Analisis Pola Kejadian Gangguan Kompresor Kereta Metro dan Rekomendasi Strategis  
+# 📊 Analisis Pola Kejadian Gangguan Kompresor Kereta Metro dan Rekomendasi Strategis Menggunakan Granite 3.2 8B
 **Hacktiv8 x IBM SkillsBuild — Agustus 2025**  
 Muhammad Fauzan Azhima  
 
